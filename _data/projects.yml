@@ -4,7 +4,7 @@
 
 - project:
   title: Velocity
-  link: "{{site.url}}/assets/report_1.pdf"
+  link: {{site.url}}/assets/report_1.pdf
   tagline: "A responsive website template designed to help startups promote, market and sell their products."
   role: 'Student'
   time: 'summer 2017'
