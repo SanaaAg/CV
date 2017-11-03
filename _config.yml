@@ -15,8 +15,8 @@ name: Sanaa Agarwal
 tagline: Undergraduate student pursuing Physics at BITS Pilani
 pic: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 summary: 'I am a fourth year undergraduate student at BITS Pilani, Pilani Campus, pursuing Masters in Science - Physics and 
-Bachelors in Engineering - Mechanical. 
-To know further: [Curriculum Vitae]({{ https://sanaaag.github.io/CV }}/assets/Curriculum_Vitae.pdf)'
+Bachelors in Engineering - Mechanical. //
+To know further look here:' [Curriculum Vitae]({{ https://sanaaag.github.io/CV }}/assets/Curriculum_Vitae.pdf)
 
 #sidebar links
 email: sanaaagrawal@gmail.com
