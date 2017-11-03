@@ -20,6 +20,25 @@
 
     </div><!--//item-->
   {% endfor %}
+  
+    <div class="meta">
+
+      <div class="upper-row">
+        <h3 class="job-title">{{ project.role }}</h3>
+        <div class="time">{{ project.time }}</div>
+      </div><!--//upper-row-->
+
+      <div class="company">{{ project.company }}</div>
+
+    </div><!--//meta-->
+
+    {% if project.details %}
+    <div class="details">
+      <p>{{ project.details }}</p>
+    </div><!--//details-->
+{% endif %}
+  
+  
 
 </section><!--//section-->
 {% endif %}
