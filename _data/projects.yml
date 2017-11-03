@@ -9,7 +9,7 @@
   role: 'Student'
   time: 'summer 2017'
   company: 'IUCAA'
-  details:'learnt MHD'
+  details: 'learnt MHD'
 - project:
   title: DevStudio
   link: "#"
